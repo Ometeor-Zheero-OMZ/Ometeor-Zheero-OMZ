@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ometeor-Zheero-OMZ
 - 👀 I’m interested in microservice and cryptocurrency
-- 🌱 I’m currently learning Golang, TypeScript, Dart, and Java
+- 🌱 I’m currently working with Golang, Python, and TypeScript
 - 💞️ I’m looking to collaborate on making fashion mobile app
 <!-- - 📫  -->
 
